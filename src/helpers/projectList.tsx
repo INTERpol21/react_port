@@ -15,97 +15,111 @@ import project14 from "../img/projects/Samurai.png";
 
 
 
-export const projects  = [
+export const projects = [
   {
+    id: 0,
     title: "PortfolioReact",
     skills: "React, Css, HTML, TS",
-    img:  project6 ,
+    img: project6,
     gitHubLink: "https://github.com/INTERpol21/react_port",
     description:
       "Крайний проект, был создан на React/TS, повторение навыков и удобное портфолио с моими работами",
   },
   {
+    id: 1,
     title: "Upavhouse",
     skills: "Vue 2, VueX, Axios, HTML, JS, Vuetify ",
-    img:  project11, project12 ,
+    img: project11,
+    project12,
     gitHubLink: "https://panel.upravhouse.ru/",
     description:
-      "Один из первых пэт-проектов,проработка верстки, работа с Figma и Adobe Photoshop",
+      "Написать описание",
   },
   {
+    id: 2,
     title: "Leverans",
     skills: "HTML, Css, JS, JQuery ",
-    img:  project13 ,
+    img: project13,
     gitHubLink: "https://omsk.leverans.ru/",
     description:
       "Коммерческий проект, очень старый порядка 10-7 лет, огромное количество legacy  кода, рефакторинг, исправление багов и проработка каждой HTML страницы для Google robots, небольшие доработки в плане визуальной составляющей",
   },
   {
+    id: 3,
     title: "TrelloClone",
     skills: "React, TS, MUI",
-    img:  project10 ,
+    img: project10,
     gitHubLink: "https://github.com/INTERpol21/TrelloClone",
     description:
       "Проектная работа и тех задание для компании, уровень знаний Junior+/Middle-. Аналог Trello board.Визуальная очень близкая копия, большая работа стоящая отметки. Полностью соответствует ТЗ и дальше больше, имеется drag and drop.",
   },
   {
+    id: 4,
     title: "Samurai",
     skills: "React, Redux, Formik, yup, axios, TS/JS, ",
-    img:  project14 ,
+    img: project14,
     gitHubLink: "https://github.com/INTERpol21/samurai",
     description:
       "Огромный проект, в последствии переписан на TS. Работа с авторизацией, формами Formik, запросов и работа с axios, Огромная проработка React от классовых компонентов до Хуков. Закрытия большого количества кейсов на Redux/Redux-thunk/Reselect ",
   },
   {
+    id: 5,
     title: "LearnReact",
     skills: "React,axios,Router-dom",
-    img:  project4 ,
+    img: project4,
     gitHubLink: "https://github.com/INTERpol21/react_learn",
     description:
       "Огромная проработка от А до Я, многих основных кейсов и задач, на React. От запросов и работы через axios, до пагинации, работы со всеми основными Хуками и роутингом",
   },
   {
+    id: 6,
     title: "TodoV1",
     skills: "React,Redux,MUI,TS",
-    img:  project8, project9 ,
+    img: project8,
+    project9,
     gitHubLink: "https://github.com/INTERpol21/Todo-React-Redux-Mui",
     description:
       "Отличный пример для первого знакомства с React(по мимо базовых шашек из оф. документации), разделение на слайсы и state с помощью Redux, Типизация и знакомство с прекрасным инструментом TypeScript, впервые использовались готовые компоненты из MUI P.S Можно сказать первое знакомство с реальным миром Frontend",
   },
   {
+    id: 7,
     title: "Blog",
     skills: "SCSS, HTML, JS, БЭМ, Адаптив, Figma, Gulp, yarn",
-    img:  project2 ,
+    img: project2,
     gitHubLink:
       "https://github.com/INTERpol21/Multipager/tree/master/my-project",
     description:
       "Многостраничный лендинг, сборная солянка из предыдущих проектов, интересный дизайн и проработка с Gulp ",
   },
   {
+    id: 8,
     title: "Portfolio",
     skills: "Css, HTML, JS, БЭМ, Адаптив,Figma ",
-    img:  project7 ,
+    img: project7,
     gitHubLink: "https://github.com/INTERpol21/Project/tree/main/skills",
     description: "Интересный дизайн, красивый адаптив, валидация ",
   },
   {
+    id: 9,
     title: "Mogo",
     skills: "Css, HTML, JS, БЭМ, Адаптив,Figma ",
-    img:  project5 ,
+    img: project5,
     gitHubLink: "https://github.com/INTERpol21/Project/tree/main/mogo%20проект",
     description: "Интересный дизайн, красивый адаптив, валидация ",
   },
   {
+    id: 10,
     title: "Ideas",
     skills: "Css, HTML, JS, БЭМ, Адаптив, Figma",
-    img:  project3 ,
+    img: project3,
     gitHubLink: "https://github.com/INTERpol21/Project/tree/main/ideas",
     description: "Интересная работа с красивой и удобной каруселью, валидация",
   },
   {
+    id: 11,
     title: "ActiveBox",
     skills: "Css, HTML, JS, БЭМ, Адаптив, Figma",
-    img:  project1 ,
+    img: project1,
     gitHubLink: "https://github.com/INTERpol21/Project/tree/main/Active",
     description:
       "Один из первых пэт-проектов,проработка верстки, работа с Figma и Adobe Photoshop",
