@@ -1,5 +1,5 @@
 import "./styles/main.css";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 
 import NavBar from "./component/navbar/NavBar";
 import Footer from "./component/footer/Footer";
@@ -12,8 +12,8 @@ import ScrollToTop from "./utils/scrollToTop";
 function App() {
   return (
     <div className="App">
-      <Router>
-        <ScrollToTop/>
+      
+        <ScrollToTop />
         <NavBar />
         <Routes>
           <Route path="/" element={<Home />} />
@@ -22,7 +22,7 @@ function App() {
           <Route path="/contacts" element={<Contacts />} />
         </Routes>
         <Footer />
-      </Router>
+      
     </div>
   );
 }
