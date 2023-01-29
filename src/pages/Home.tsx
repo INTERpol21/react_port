@@ -10,13 +10,28 @@ const Home = () => {
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
               <p>
-                JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NPM,
-                BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
+                JavaScript, TypeScript, ReactJS, Redux, Redux Toolkit, Vue2,
+                VueX, Pinia, React Router, Vue Router, HTML, CSS
+              </p>
+            </li>
+
+            <li className="content-list__item">
+              <h2 className="title-2">Design Libraries/Frameworks/Style</h2>
+              <p>
+                BootStrap, MaterialUI, TailwindCSS, StyledComponents, Vuetify,
+                Ant Design, Sass, SCSS, Pixel perfect, БЭМ, Адаптив
               </p>
             </li>
             <li className="content-list__item">
-              <h2 className="title-2">Backend</h2>
-              <p>NodeJS, MySQL, MongoDB, PHP, Laravel</p>
+              <h2 className="title-2">Other instruments</h2>
+              <p>
+                Yarn, NPM, Gulp, Webpack, ESLint, Prettier, VS Code, WebStorm,
+                Git Bash, PuTTY, Git, Insomnia, Axios, Moment, Formik, Yup
+              </p>
+            </li>
+            <li className="content-list__item">
+              <h2 className="title-2">Backend/Database</h2>
+              <p>NodeJS, Python, MySQL, MongoDB</p>
             </li>
           </ul>
         </div>

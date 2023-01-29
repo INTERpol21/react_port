@@ -1,3 +1,13 @@
+		/* Social */
+
+		.social {
+			column-gap: 20px;
+		}
+
+		.social__item {
+			width: 28px;
+		}
+	
 	/* Footer */
 
 	.footer {
@@ -37,3 +47,4 @@
 	        row-gap: 20px;
 	    }
 	}
+

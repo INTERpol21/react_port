@@ -13,8 +13,6 @@ import project12 from "../img/projects/upavhouse2.png";
 import project13 from "../img/projects/leverans.png";
 import project14 from "../img/projects/Samurai.png";
 
-
-
 export const projects = [
   {
     id: 0,
@@ -28,21 +26,21 @@ export const projects = [
   {
     id: 1,
     title: "Upavhouse",
-    skills: "Vue 2, VueX, Axios, HTML, JS, Vuetify ",
+    skills: "Vue 2, VueX, Axios, HTML, JS, Vuetify",
     img: project11,
     project12,
     gitHubLink: "https://panel.upravhouse.ru/",
     description:
-      "Написать описание",
+      "Разработка и доработка имеющегося проекта. CRM админ панель переписанная, проведен достойный рефакторинг, комментарии, обновления всех имеющихся библиотек и зависимостей, удаления и переписанного на чистом JS, поддержка одного стиля кода. Небольшие исправление бека и работа с REST API(написанного на Python + Django) через Axios. Составления ТЗ и выполнения их в срок, Работа с UI библиотекой Vuetify, SCSS. Pixel perfect. Заказчик остался доволен. Ссылка введен на этот проект ",
   },
   {
     id: 2,
     title: "Leverans",
-    skills: "HTML, Css, JS, JQuery ",
+    skills: "HTML, Css, JS, JQuery",
     img: project13,
     gitHubLink: "https://omsk.leverans.ru/",
     description:
-      "Коммерческий проект, очень старый порядка 10-7 лет, огромное количество legacy  кода, рефакторинг, исправление багов и проработка каждой HTML страницы для Google robots, небольшие доработки в плане визуальной составляющей",
+      "Коммерческий проект, очень старый порядка 10-7 лет, огромное количество legacy  кода, рефакторинг, исправление багов и проработка каждой HTML страницы для Google robots, небольшие доработки в плане визуальной составляющей. Работа и исправление JQuery. Ссылка введен на этот проект.",
   },
   {
     id: 3,
@@ -51,12 +49,12 @@ export const projects = [
     img: project10,
     gitHubLink: "https://github.com/INTERpol21/TrelloClone",
     description:
-      "Проектная работа и тех задание для компании, уровень знаний Junior+/Middle-. Аналог Trello board.Визуальная очень близкая копия, большая работа стоящая отметки. Полностью соответствует ТЗ и дальше больше, имеется drag and drop.",
+      "Проектная работа и тех задание для компании, уровень знаний Junior+/Middle-. Аналог Trello board.Визуальная очень близкая копия, большая работа стоящая вашей оценки. Полностью соответствует ТЗ и даже больше, имеется drag and drop.",
   },
   {
     id: 4,
     title: "Samurai",
-    skills: "React, Redux, Formik, yup, axios, TS/JS, ",
+    skills: "React, Redux, Formik, Yup, Axios, TS/JS",
     img: project14,
     gitHubLink: "https://github.com/INTERpol21/samurai",
     description:
@@ -65,7 +63,7 @@ export const projects = [
   {
     id: 5,
     title: "LearnReact",
-    skills: "React,axios,Router-dom",
+    skills: "React, Axios, Router-dom",
     img: project4,
     gitHubLink: "https://github.com/INTERpol21/react_learn",
     description:
@@ -74,7 +72,7 @@ export const projects = [
   {
     id: 6,
     title: "TodoV1",
-    skills: "React,Redux,MUI,TS",
+    skills: "React, Redux, MUI, TS",
     img: project8,
     project9,
     gitHubLink: "https://github.com/INTERpol21/Todo-React-Redux-Mui",
@@ -94,7 +92,7 @@ export const projects = [
   {
     id: 8,
     title: "Portfolio",
-    skills: "Css, HTML, JS, БЭМ, Адаптив,Figma ",
+    skills: "Css, HTML, JS, БЭМ, Адаптив, Figma",
     img: project7,
     gitHubLink: "https://github.com/INTERpol21/Project/tree/main/skills",
     description: "Интересный дизайн, красивый адаптив, валидация ",
@@ -102,7 +100,7 @@ export const projects = [
   {
     id: 9,
     title: "Mogo",
-    skills: "Css, HTML, JS, БЭМ, Адаптив,Figma ",
+    skills: "Css, HTML, JS, БЭМ, Адаптив, Figma, Adobe Photoshop",
     img: project5,
     gitHubLink: "https://github.com/INTERpol21/Project/tree/main/mogo%20проект",
     description: "Интересный дизайн, красивый адаптив, валидация ",
@@ -110,7 +108,7 @@ export const projects = [
   {
     id: 10,
     title: "Ideas",
-    skills: "Css, HTML, JS, БЭМ, Адаптив, Figma",
+    skills: "Css, HTML, JS, БЭМ, Адаптив, Figma, Adobe Photoshop",
     img: project3,
     gitHubLink: "https://github.com/INTERpol21/Project/tree/main/ideas",
     description: "Интересная работа с красивой и удобной каруселью, валидация",
@@ -118,7 +116,7 @@ export const projects = [
   {
     id: 11,
     title: "ActiveBox",
-    skills: "Css, HTML, JS, БЭМ, Адаптив, Figma",
+    skills: "Css, HTML, JS, БЭМ, Адаптив, Figma, Adobe Photoshop",
     img: project1,
     gitHubLink: "https://github.com/INTERpol21/Project/tree/main/Active",
     description:

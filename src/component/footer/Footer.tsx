@@ -1,6 +1,6 @@
 import "./style.css"
 import vk from "./../../img/icons/vk.svg";
-import instagram from "./../../img/icons/instagram.svg";
+import telegram from "./../../img/icons/telegram.svg";
 import twitter from "./../../img/icons/twitter.svg";
 import gitHub from "./../../img/icons/gitHub.svg";
 import linkedIn from "./../../img/icons/linkedIn.svg";
@@ -11,13 +11,21 @@ const Footer = () => {
         <div className="footer__wrapper">
           <ul className="social">
             <li className="social__item">
-              <a href="#!">
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://vk.com/toxa199821"
+              >
                 <img src={vk} alt="Link" />
               </a>
             </li>
             <li className="social__item">
-              <a href="#!">
-                <img src={instagram} alt="Link" />
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://t.me/interpol2121"
+              >
+                <img src={telegram} alt="Link" />
               </a>
             </li>
             <li className="social__item">
@@ -26,7 +34,11 @@ const Footer = () => {
               </a>
             </li>
             <li className="social__item">
-              <a href="#!">
+              <a
+                target="_blank"
+                rel="noreferrer"
+                href="https://github.com/INTERpol21"
+              >
                 <img src={gitHub} alt="Link" />
               </a>
             </li>
