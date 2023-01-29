@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_port/static/css/main.dac47ffe.css",
-    "main.js": "/react_port/static/js/main.6ac28a40.js",
+    "main.js": "/react_port/static/js/main.b70ca088.js",
     "static/media/TrelloClone.png": "/react_port/static/media/TrelloClone.edac406e700f8d5e7682.png",
     "static/media/leverans.png": "/react_port/static/media/leverans.a4b7348070e504a841f5.png",
     "static/media/ideas.png": "/react_port/static/media/ideas.e7bcf9e5c612195aa12f.png",
@@ -27,10 +27,10 @@
     "static/media/linkedIn.svg": "/react_port/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/react_port/index.html",
     "main.dac47ffe.css.map": "/react_port/static/css/main.dac47ffe.css.map",
-    "main.6ac28a40.js.map": "/react_port/static/js/main.6ac28a40.js.map"
+    "main.b70ca088.js.map": "/react_port/static/js/main.b70ca088.js.map"
   },
   "entrypoints": [
     "static/css/main.dac47ffe.css",
-    "static/js/main.6ac28a40.js"
+    "static/js/main.b70ca088.js"
   ]
 }
