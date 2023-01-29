@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_port/static/css/main.24c9c004.css",
+    "main.css": "/react_port/static/css/main.b6bae87b.css",
     "main.js": "/react_port/static/js/main.1640b782.js",
     "static/media/TrelloClone.png": "/react_port/static/media/TrelloClone.edac406e700f8d5e7682.png",
     "static/media/leverans.png": "/react_port/static/media/leverans.a4b7348070e504a841f5.png",
@@ -26,11 +26,11 @@
     "static/media/twitter.svg": "/react_port/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
     "static/media/linkedIn.svg": "/react_port/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/react_port/index.html",
-    "main.24c9c004.css.map": "/react_port/static/css/main.24c9c004.css.map",
+    "main.b6bae87b.css.map": "/react_port/static/css/main.b6bae87b.css.map",
     "main.1640b782.js.map": "/react_port/static/js/main.1640b782.js.map"
   },
   "entrypoints": [
-    "static/css/main.24c9c004.css",
+    "static/css/main.b6bae87b.css",
     "static/js/main.1640b782.js"
   ]
 }
