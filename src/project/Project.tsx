@@ -5,8 +5,8 @@ type projectProps = {
   title: string;
   skills: string;
   img: string;
-  gitHubLink: string;
-  description: string;
+  gitHubLink?: string;
+  description?: string;
 };
 
 const Project = ({
@@ -14,8 +14,7 @@ const Project = ({
   title,
   skills,
   img,
-  gitHubLink,
-  description,
+
 }: projectProps) => {
   return (
     <NavLink to={`/project/${id}`}>
