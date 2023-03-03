@@ -1,6 +1,6 @@
 {
   "homepage": "http://INTERpol21.github.io/react_port",
-  "name": "react_portfilio",
+  "name": "react_portfolio",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
@@ -25,7 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "npm run deploy"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -33,7 +33,6 @@
       "react-app/jest"
     ]
   },
-
   "browserslist": {
     "production": [
       ">0.2%",
